@@ -2,9 +2,9 @@ import React from 'react';
 import styled, {css} from 'styled-components';
 import {AppContext} from './AppProvider';
 
-const logo = styled.div`
-    font-size: 1.5em;
-`
+// const logo = styled.div`
+//     font-size: 1.5em;
+// `
 
 const Bar = styled.div`
     display: grid;
